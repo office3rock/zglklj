@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://capricashow.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://zglklj.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "capricashow", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "zglklj", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "capricashow", // This allows an alternative site description for meta data for pages.
+    "zglklj", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "capricashow", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "zglklj", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "capricashow",
+    title: "zglklj",
     helpText: "Keep following",
     successMessage: "Thank you The message was sent successfully",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "Homepage",
-        url: "https://capricashow.com/",
+        url: "https://zglklj.com/",
       },
       {
         label: "Contact",
-        url: "https://capricashow.com/contact",
+        url: "https://zglklj.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "Homepage",
-        url: "https://capricashow.com/",
+        url: "https://zglklj.com/",
       },
       {
         label: "Sitemap",
-        url: "https://capricashow.com/sitemap.xml",
+        url: "https://zglklj.com/sitemap.xml",
       },
       
       {
         label: "Contact",
-        url: "https://capricashow.com/contact",
+        url: "https://zglklj.com/contact",
       },
       
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "capricashow",
+    title: "zglklj",
     description:
-      "capricashow",
+      "zglklj",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "capricashow",
+    title: "zglklj",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "capricashow",
+  siteTitle: "zglklj",
   siteDescription:
-    "capricashow",
+    "zglklj",
   language: "he",
   logoUrl: "",
   iconUrl: "",
